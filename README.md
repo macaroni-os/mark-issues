@@ -24,6 +24,6 @@ or
 Closes: macaroni-os/<repo>#<num-issue>
 ```
 
-The MARK-1 (naming remember the Iron Main Armors) doesn't include the stack to
+The MARK-1 (naming remember the Iron Man Armors) doesn't include the stack to
 generate binary repositories (*anise-build*, etc.) that continue to have as the main
 issue tracker the repository *macaroni-funtoo*.
