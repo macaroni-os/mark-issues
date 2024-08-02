@@ -2,9 +2,9 @@
   <img src="https://github.com/macaroni-os/macaroni-site/blob/master/site/static/images/logo.png">
 </p>
 
-# **M**acaroni **A**automated **R**repositories **K**it Issues
+# **M**acaroni **A**utomated **R**epositories **K**it Issues
 
-The **M**acaroni **A**automated **R**repositories **K**it is the Stack
+The **M**acaroni **A**utomated **R**epositories **K**it is the Stack
 of all softwares used by Macaroni to maintain and to generate `kits` together
 with the tools used by Macaroni to convert Portage metadata to *anise* specs.
 
