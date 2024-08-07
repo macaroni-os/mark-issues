@@ -10,9 +10,9 @@ with the tools used by Macaroni to convert Portage metadata to *anise* specs.
 
 Submit issues here for all issues with the *tree* and with MARK stack.
 
-Github permits to reference the issue from another repository using
+Github permits referencing the issue from another repository using
 <org/repo>#<num-issue> so if you submit PRs for open issues you can
-uses:
+use:
 
 ```
 Bugs: macaroni-os/<repo>#<num-issue>
@@ -24,6 +24,6 @@ or
 Closes: macaroni-os/<repo>#<num-issue>
 ```
 
-The MARK-1 (naming remember the Iron Man Armors) doesn't include the stack to
-generate binary repositories (*anise-build*, etc.) that continue to have as the main
-issue tracker the repository *macaroni-funtoo*.
+The MARK-1 (naming inspired by the Iron Man Armors) doesn't include the stack to
+generate binary repositories (*anise-build*, etc.) that continues to have the
+repository *macaroni-funtoo* as the main issue tracker.
